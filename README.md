@@ -8,7 +8,7 @@ Todos os challenges seguem a estrutura do "[*Challenge Based Learning*](https://
 
 ## Sobre o Challenge
 
-Este challenge tem como objetivo criar um **projeto de análise de dados** utilizando as principais ferramentas de análise e visualização de dados para contribuir na identificação de risco de crédito para uma empresas de finanças.
+Este challenge tem como objetivo criar um **projeto de análise de dados** utilizando as principais ferramentas de análise e visualização de dados para contribuir na identificação de risco de crédito para uma empresa de finanças.
 
 Neste projeto, será desenvolvido para o banco digital internacional Alura Ca$h (empresa fictícia) um conjunto de análises e modelos de machine learning supervisionados, para auxiliar na tomada de decisão para concessão de crédito. Para isso, será utilizada uma base de dados dos clientes e informações quanto ao empréstimo.
 
@@ -24,4 +24,4 @@ Na segunda etapa será criado um modelo de previsão de inadimplência da Alura 
 
 ### 3° Etapa
 
-Por último, a terceira etapa consistirá em analisar as métricas, criando visualizações com o Power BI para que qualquer pessoas consiga entender os dados.
+Por último, a terceira etapa consistirá em analisar as métricas, criando visualizações com o Power BI para que qualquer pessoa consiga entender os dados.
