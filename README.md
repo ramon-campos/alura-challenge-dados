@@ -4,7 +4,7 @@
 
 O **Alura Challenges** é uma iniciativa da [Alura](https://www.alura.com.br/) que possui o principal objetivo de preparar os seus alunos por meio de projetos desafiadores, aprendendo não somente através dos cursos que a instituição oferece aos seus alunos, mas também na prática com a construção de projetos inéditos, além de contar com uma comunidade ativa e exclusiva no Discord.
 
-Todos os challenges seguem a estrutura do "*Challenge Based Learning*", uma metodologia de ensino que a Apple ajudou a criar. Durante cada etapa, somos desafiados a engajar em cima de problemas encontrados no dia a dia de trabalho da área, investigando soluções com cursos, conteúdo e conversa.
+Todos os challenges seguem a estrutura do "[*Challenge Based Learning*](https://en.wikipedia.org/wiki/Challenge-based_learning)", uma metodologia de ensino que a Apple ajudou a criar. Durante cada etapa, somos desafiados a engajar em cima de problemas encontrados no dia a dia de trabalho da área, investigando soluções com cursos, conteúdo e conversa.
 
 ## Sobre o Challenge
 
