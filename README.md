@@ -12,16 +12,10 @@ Este challenge tem como objetivo criar um **projeto de análise de dados** utili
 
 Neste projeto, será desenvolvido para o banco digital internacional Alura Ca$h (empresa fictícia) um conjunto de análises e modelos de machine learning supervisionados, para auxiliar na tomada de decisão para concessão de crédito. Para isso, será utilizada uma base de dados dos clientes e informações quanto ao empréstimo.
 
-## Etapas do Projeto
+## Etapas
 
-### 1° Etapa
+1. A primeira etapa do projeto será tratar os dados utilizando SQL, a linguagem de pesquisa declarativa padrão para banco de dados relacional.
 
-A primeira etapa do projeto será tratar os dados utilizando SQL, a linguagem de pesquisa declarativa padrão para banco de dados relacional.
+2. Na segunda etapa será criado um modelo de previsão de inadimplência da Alura Ca$h.
 
-### 2° Etapa
-
-Na segunda etapa será criado um modelo de previsão de inadimplência da Alura Ca$h.
-
-### 3° Etapa
-
-Por último, a terceira etapa consistirá em analisar as métricas, criando visualizações com o Power BI para que qualquer pessoa consiga entender os dados.
+3. Por último, a terceira etapa consistirá em analisar as métricas, criando visualizações com o Power BI para que qualquer pessoa consiga entender os dados.
